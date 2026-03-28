@@ -119,5 +119,13 @@
 4. CHC Navigation. *Новости линейки APACHE 4 PRO (актуальные модификации платформы).* URL: https://www.chcnav.com/about/news/2026/chc-navigation-introduces-apach-4-pro--a-multi-purpose-usv-for-comprehensive-hydrographic-surveys.
 
 ---
+###Приложение:
+## Включение USV и установление связи
+![alt text](image-9.png)
 
-*Дата подготовки отчёта: 28.03.2026.*
+## Настройка сетевых параметров:
+![alt text](image-10.png)
+
+## Контрольный прогон:
+![alt text](image-11.png)
+

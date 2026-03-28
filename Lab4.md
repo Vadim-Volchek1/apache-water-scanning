@@ -121,11 +121,11 @@
 ---
 ###Приложение:
 ## Включение USV и установление связи
-![alt text](image-9.png)
+![alt text](image-9.jpg)
 
 ## Настройка сетевых параметров:
-![alt text](image-10.png)
+![alt text](image-10.jpg)
 
 ## Контрольный прогон:
-![alt text](image-11.png)
+![alt text](image-11.jpg)
 
